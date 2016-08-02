@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="G:\vuforia\samples\VuforiaSamples-5-5-9\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="10dbdfbb4b3474d2f0b7d1148a600584cd698222">
+        <dex dex="G:\vuforia\samples\VuforiaSamples-5-5-9\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_4376beaadcb523276a65399f673ae12686c3930e.jar" />
+    </item>
+    <item
+        jar="G:\vuforia\samples\VuforiaSamples-5-5-9\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="03d8d370d32dbfdde4b2bfb9bbb614c89854ac57">
+        <dex dex="G:\vuforia\samples\VuforiaSamples-5-5-9\app\build\intermediates\pre-dexed\debug\instant-run_951890049eaf74323a662580b6d8c355c27a4ce9.jar" />
+    </item>
+    <item
+        jar="G:\vuforia\build\java\vuforia\Vuforia.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="f5b9729417d9e86d9bba6068e4a84f05ace53fd4">
+        <dex dex="G:\vuforia\samples\VuforiaSamples-5-5-9\app\build\intermediates\pre-dexed\debug\Vuforia_3e46dc22bc2dd85ed027d8819709094374a94ece.jar" />
+    </item>
+
+</items>

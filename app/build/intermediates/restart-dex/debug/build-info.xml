@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="1"
+    format="7"
+    timestamp="240258067072512"
+    token="6359439849512773817" >
+
+    <task
+        name="javac"
+        duration="847" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="2255" />
+    <task
+        name="verifier"
+        duration="161" />
+
+    <artifact
+        location="G:\vuforia\samples\VuforiaSamples-5-5-9\app\build\outputs\apk\VuforiaSamples-5-5-9-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="240258067072512" >
+        <artifact
+            location="G:\vuforia\samples\VuforiaSamples-5-5-9\app\build\outputs\apk\VuforiaSamples-5-5-9-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "G:\\vuforia\\samples\\VuforiaSamples-5-5-9\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logo.png",
+        "source": "G:\\vuforia\\samples\\VuforiaSamples-5-5-9\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "G:\\vuforia\\samples\\VuforiaSamples-5-5-9\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon.png",
+        "source": "G:\\vuforia\\samples\\VuforiaSamples-5-5-9\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    }
+]
